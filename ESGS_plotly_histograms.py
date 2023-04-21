@@ -139,7 +139,7 @@ fig.show()
 # In[11]:
 
 
-get_ipython().system('pip install dash dash-core-components dash-html-components plotly jupyter-dash')
+#get_ipython().system('pip install dash dash-core-components dash-html-components plotly jupyter-dash')
 
 
 # In[12]:
