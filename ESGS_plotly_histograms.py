@@ -163,6 +163,7 @@ from jupyter_dash import JupyterDash
 
 # Initialize JupyterDash app
 app = JupyterDash(__name__)
+server = app.server
 
 # Create a list of unique county names
 county_names = df_use['state_county'].unique()
